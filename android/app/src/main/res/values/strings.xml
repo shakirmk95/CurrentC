@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">CurrentC</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome to CurrentC!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="already_reg">Already Registered? Sign In</string>
+    <string name="not_reg">Not Registered? Sign Up</string>
+
+    <string name="group_name">Group Name</string>
+    <string name="create">Create</string>
+    <string name="signout">Sign Out</string>
 </resources>
